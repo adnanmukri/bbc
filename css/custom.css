@@ -1,0 +1,44 @@
+.owl-theme .owl-nav [class*="owl-"] {
+    border: none;
+    background-color: var(--primary-color-1);
+    padding: 0px 10px 2px 10px;
+    border-radius: unset;
+    font-family: revert;
+    color: #fff;
+    font-size: 20px;
+}
+
+.owl-theme .owl-nav [class*="owl-"]:hover {
+    cursor: pointer;
+    background: #111;
+    color: #fff;
+}
+
+section {
+    padding: 60px 0px;
+}
+
+.text-bbc {
+    color: var(--primary-color-1) !important;
+}
+
+.text-bbc-heading {
+    color: #111 !important;
+}
+
+h3.id-color {
+    color: #111 !important;
+}
+
+.pb-130 {
+    padding-bottom: 130px;
+}
+
+.client-logo {
+    padding: 20px;
+}
+
+#subheader {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
